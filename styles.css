@@ -1,0 +1,72 @@
+input[type=text]:focus {
+    background-color: white;
+
+}
+
+input[type=text] {
+    background-color: lightblue;
+    font-weight: bold;
+    width:  30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+
+input[type=number]:focus {
+    background-color: white;
+}
+
+input[type=number] {
+    background-color: lightblue;
+    font-weight: bold;
+    width:  30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=email]:focus {
+    background-color: white;
+}
+
+input[type=email] {
+    background-color: lightblue;
+    font-weight: bold;
+    width:  30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+label{
+    font-style: italic;
+}
+
+textarea:focus {
+    background-color: white;
+
+}
+
+textarea {
+    background-color: lightblue;
+    font-weight: bold;
+    width:  30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+select:focus {
+    background-color: white;
+
+}
+
+select {
+    background-color: lightblue;
+    font-weight: bold;
+    width:  30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
